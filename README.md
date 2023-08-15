@@ -1,13 +1,10 @@
 <h1 align="center">Nguyen Hoang Long</h1>
 <h3 align="center">Software Engineer</h3>
-<div style='display: flex;
-	flex-direction: row; align-items:end; justify-content:center; gap:16px'>
- <h3><a href = "https://drive.google.com/file/d/1HwaJ__ugIZjSBGQu7cMok8nEapOSdyZG/view?usp=drive_link" target='_blank'>📃 Resume</a></h3>
- <h3 style='display: flex;
-	flex-direction: row; align-items:center; justify-content:center; gap:8px' ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-linkedin"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></svg><a href = "https://www.linkedin.com/in/long-nguyen-95517b250/" target='_blank'> Linkedin</a></h3>
- <h4 style='display: flex;
-	flex-direction: row; align-items:end; justify-content:center; gap:8px'> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-mail"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg> nhlong2706@gmail.com</h4>
-</div>
+ <h3 align='left'><a href="#" target='_blank'>📃 Resume</a></h3>
+ <h3 align='left'> <a href = "https://www.linkedin.com/in/long-nguyen-95517b250/" target='_blank'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></a></h3>
+ <h4 align='left'> 
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>   nhlong2706@gmail.com</h4>
+
 
 <h3 align="left">Languages and Skills</h3>
 <p align="left">

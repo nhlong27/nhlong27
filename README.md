@@ -1,6 +1,6 @@
 <h1 align="center">Nguyen Hoang Long</h1>
 <h3 align="center">Software Engineer</h3>
- <h3 align='left'><a href="#" target='_blank'>📃 Resume</a></h3>
+<!--  <h3 align='left'><a href="#" target='_blank'>📃 Resume</a></h3> -->
  <h3 align='left'> <a href = "https://www.linkedin.com/in/long-nguyen-95517b250/" target='_blank'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></a></h3>
  <h4 align='left'> 
   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>   nhlong2706@gmail.com</h4>
